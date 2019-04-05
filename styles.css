@@ -32,4 +32,13 @@ li a:hover {
 			Standard {Font-size : 13pt;}
 			T {Font-size : 25pt;}
 			D {padding-left : 35px; Color : White;}
+			
+p {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+tex {
+    margin: 20px;
+}
 		       
